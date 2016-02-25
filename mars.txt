@@ -4,4 +4,8 @@ The two moons may be a problem for Wolfman.
 Change 1
 
 But Mummy will appreciate the lack of humidity.
+
  We added a different line in the second copy
+=======
+This line is added to Wolfman's copy.
+
